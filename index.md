@@ -1,8 +1,8 @@
 # Política de Privacidade do Focal
 
-Última atualização: [data da publicação]
+Última atualização: 10 de outubro de 2026
 
-Esta política explica quais dados o Focal usa, para quê, e o que você pode fazer. O responsável pelo Focal é VINICIUS RIBEIRO. Contato: viniciusxavierbmx2016@gmail.com.
+Esta política explica quais dados o Focal usa, para quê, e o que você pode fazer. O responsável pelo Focal é Vinicius Ribeiro. Contato: viniciusxavierbmx2016@gmail.com.
 
 ## 1. Suas fotos ficam no seu iPhone
 
@@ -18,7 +18,7 @@ Usamos o kit de medição da Meta (Facebook SDK) para saber quais anúncios trou
 
 - quando o app é instalado e aberto;
 - quando um teste grátis começa e quando acontece o primeiro pagamento de uma assinatura: valor, moeda, produto, plano (mensal, anual ou anual parcelado) e tipo de oferta. Renovações não são enviadas;
-- informações técnicas do aparelho (por exemplo modelo, versão do iOS, idioma e fuso horário), o endereço IP e um identificador anônimo criado pelo próprio kit da Meta;
+- informações técnicas do aparelho (por exemplo modelo, versão do iOS, idioma e fuso horário), relatórios de falha do próprio kit, o endereço IP e um identificador anônimo criado pelo próprio kit da Meta;
 - o identificador de publicidade da Apple (IDFA), só se você tocar em "Permitir" no aviso de rastreamento.
 
 Nunca enviamos fotos, edições, nome, e-mail, contatos ou localização precisa.
