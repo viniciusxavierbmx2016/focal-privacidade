@@ -1,67 +1,70 @@
-# Política de Privacidade — Focal
+# Política de Privacidade do Focal
 
-Última atualização: 3 de setembro de 2026
+Última atualização: 10 de outubro de 2026
 
-O Focal é um aplicativo de câmera e edição de fotos para iPhone.
+Esta política explica quais dados o Focal usa, para quê, e o que você pode fazer. O responsável pelo Focal é Vinicius Ribeiro. Contato: viniciusxavierbmx2016@gmail.com.
 
-Esta política explica como ele trata suas informações.
+## 1. Suas fotos ficam no seu iPhone
 
-## Resumo
+O Focal não tem contas, login nem servidor próprio. Fotos, edições e filtros são processados e guardados só no seu iPhone. Nada disso é enviado para nós nem para ninguém.
 
-O Focal não coleta, não armazena e não transmite dados pessoais.
+A câmera é usada para tirar fotos. A biblioteca de Fotos é usada só quando você pede, para importar ou salvar uma foto.
 
-Não há cadastro, login ou servidor. Tudo o que você fotografa ou
+Se o backup do seu iPhone estiver ligado (iCloud ou computador), os dados do Focal entram nele, como os de qualquer app. Esse backup é da sua conta Apple, e nós não temos acesso a ele.
 
-edita permanece no seu iPhone.
+## 2. O que sai do iPhone: medição de anúncios (a partir da versão 1.3)
 
-## O que o aplicativo acessa
+Usamos o kit de medição da Meta (Facebook SDK) para saber quais anúncios trouxeram pessoas até o Focal. Ele envia para a Meta:
 
-Câmera — para fotografar. As imagens são processadas apenas
+- quando o app é instalado e aberto;
+- quando um teste grátis começa e quando acontece o primeiro pagamento de uma assinatura: valor, moeda, produto, plano (mensal, anual ou anual parcelado) e tipo de oferta. Renovações não são enviadas;
+- informações técnicas do aparelho (por exemplo modelo, versão do iOS, idioma e fuso horário), relatórios de falha do próprio kit, o endereço IP e um identificador anônimo criado pelo próprio kit da Meta;
+- o identificador de publicidade da Apple (IDFA), só se você tocar em "Permitir" no aviso de rastreamento.
 
-no seu dispositivo.
+Nunca enviamos fotos, edições, nome, e-mail, contatos ou localização precisa.
 
-Fotos — para importar imagens do seu rolo e para salvar as
+## 3. Para que usamos
 
-fotos que você escolher exportar. O acesso acontece somente
+Para saber quais anúncios funcionam e melhorar os nossos anúncios. Não vendemos seus dados e não mostramos anúncios dentro do Focal.
 
-quando você solicita.
+## 4. Rastreamento: a escolha é sua
 
-Armazenamento do dispositivo — as fotos capturadas e suas
+Depois que você salva uma foto, o iPhone pode perguntar se você permite o rastreamento.
 
-edições ficam guardadas dentro do próprio aplicativo, no seu
+- Se você tocar em "Permitir", o IDFA vai junto com os eventos acima, e a Meta pode ligar esses dados a dados de outros apps e sites para medir anúncios.
+- Se você recusar, o IDFA não é enviado. Os eventos continuam indo sem ele, e a Meta recebe a informação de que você não permitiu o rastreamento.
 
-iPhone.
+Você pode mudar isso a qualquer momento em Ajustes do iPhone → Privacidade e Segurança → Rastreamento.
 
-## O que não acontece
+## 5. Com quem compartilhamos
 
-O Focal não envia suas fotos para nenhum servidor. Não utiliza
+- Meta Platforms, pelo kit de medição. O uso que a Meta faz dos dados segue a política dela: https://www.facebook.com/privacy/policy
+- Apple: assinaturas são feitas pela App Store. Os dados de pagamento ficam com a Apple, e nós não vemos seu cartão.
 
-serviços de análise, rastreamento ou publicidade. Não compartilha
+Não compartilhamos com mais ninguém. Os dados enviados à Meta podem ser tratados fora do Brasil, conforme as garantias da própria Meta.
 
-informações com terceiros. Não exige conta nem coleta e-mail,
+## 6. Por quanto tempo
 
-nome ou localização.
+No iPhone, os dados ficam até você apagar a foto ou o app. Fotos apagadas vão para a lixeira do Focal e somem de vez depois de 30 dias. Apagar o app apaga tudo o que está nele.
 
-## Controle e exclusão
+Na Meta, os dados ficam pelo prazo definido pela Meta. Apagar o app não apaga o que a Meta já recebeu.
 
-Você pode revogar o acesso à câmera e às fotos a qualquer momento
+## 7. Base legal (LGPD)
 
-em Ajustes do iPhone. As fotos excluídas dentro do aplicativo vão
+- Rastreamento com o IDFA: o seu consentimento (o "Permitir").
+- Medição sem o IDFA: o nosso legítimo interesse em medir os nossos anúncios, com o mínimo de dados.
+- Assinaturas: a execução do contrato.
 
-para uma lixeira e são removidas definitivamente após 30 dias.
+## 8. Seus direitos
 
-Desinstalar o aplicativo apaga todos os dados guardados por ele.
+Pela LGPD, você pode pedir confirmação, acesso, correção, eliminação e informação sobre compartilhamento, além de revogar o consentimento. Escreva para o e-mail acima.
 
-## Crianças
+Como o Focal não tem contas, não temos como saber quais eventos são seus. Para parar o rastreamento, use o ajuste do iPhone. Para os dados que estão com a Meta, você também pode usar os canais da Meta. Você também pode reclamar à ANPD.
 
-O Focal não é direcionado a menores de 13 anos e não coleta
+## 9. Crianças
 
-informações de forma intencional de qualquer usuário.
+O Focal não é feito para menores de 13 anos. Se você acha que uma criança usou o app e quer que algo seja apagado, fale com a gente.
 
-## Alterações
+## 10. Mudanças
 
-Se esta política mudar, a data acima será atualizada.
-
-## Contato
-
-viniciusxavierbmx2016@gmail.com
+Quando esta política mudar, a data no topo muda junto.
